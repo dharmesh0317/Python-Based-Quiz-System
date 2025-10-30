@@ -1,0 +1,3 @@
+The Python Based Quiz System is an interactive application designed to test a user’s knowledge through multiple-choice questions. Developed using Python and ipywidgets, the system provides a simple and engaging interface where users can attempt questions, receive instant feedback, and view their final score at the end of the quiz.
+
+The project demonstrates core programming concepts such as control structures, functions, event handling, and GUI design. It can be run easily in Google Colab or Jupyter Notebook, making it ideal for educational environments and learning purposes. The system is lightweight, user-friendly, and can be customized by adding more questions or features like timers and difficulty levels.
